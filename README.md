@@ -42,4 +42,4 @@ Portfolio: https://docs.google.com/document/d/19JxHY4JTXCeTJKg287yavPAaUY_f84Dd/
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/artem-kravchenko-embedded/
-Email: [powitrula2015@gmail.com]
+Email:[powitrula2015@gmail.com

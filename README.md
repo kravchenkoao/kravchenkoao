@@ -37,9 +37,9 @@ Calculation-based analysis of a frequency converter circuit based on a field-eff
 
 My full project portfolio includes screenshots, diagrams, simulations, photos, and project documentation.
 
-Portfolio: [https://docs.google.com/document/d/19JxHY4JTXCeTJKg287yavPAaUY_f84Dd/edit?usp=sharing&ouid=116412690941068246162&rtpof=true&sd=true]
+Portfolio: https://docs.google.com/document/d/19JxHY4JTXCeTJKg287yavPAaUY_f84Dd/edit?usp=sharing&ouid=116412690941068246162&rtpof=true&sd=true
 
 ## Contact
 
-LinkedIn: [https://www.linkedin.com/in/artem-kravchenko-embedded/]
+LinkedIn: https://www.linkedin.com/in/artem-kravchenko-embedded/
 Email: [powitrula2015@gmail.com]
